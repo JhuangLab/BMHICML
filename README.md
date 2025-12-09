@@ -62,7 +62,9 @@ Prerequisites
 
 ### Clone the Repository
 
-git clone [https://github.com/[JhuangLab]/BMHICML.git](https://github.com/%5BJhuangLab%5D/BMHICML.git){.uri} cd BMHICML
+git clone [https://github.com/[JhuangLab]/BMHICML.git](https://github.com/%5BJhuangLab%5D/BMHICML.git)
+
+cd BMHICML
 
 ### Install Dependencies
 
