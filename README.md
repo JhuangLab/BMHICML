@@ -158,7 +158,7 @@ For questions, issues, or collaboration requests, please contact:
 
 -   Project Maintainer: [JhuangLab]
 
--   GitHub Issues: [https://github.com/JhuangLab/BMHICML/issues](https://github.com/%5BJhuangLab%5D/BMHICML/issues){.uri}
+-   GitHub Issues: [https://github.com/JhuangLab/BMHICML/issues](https://github.com/%5BJhuangLab%5D/BMHICML/issues)
 
 Citation
 
@@ -168,8 +168,6 @@ If you use this project in your research, please cite it as:
 
 ### Acknowledgements
 
--   This project is supported by [Your Institution/Research Grant] (Grant No.: [XXXX]).
-
--   We thank [Collaborating Hospital/Institution] for providing clinical data.
+-   We thank our collaborator for providing clinical data.
 
 -   We acknowledge the open-source community for the foundation models and tools used in this project.
