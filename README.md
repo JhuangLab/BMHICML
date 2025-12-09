@@ -62,7 +62,7 @@ Prerequisites
 
 ### Clone the Repository
 
-git clone [https://github.com/[your-username]/BMHICML.git](https://github.com/%5Byour-username%5D/BMHICML.git){.uri} cd BMHICML
+git clone [https://github.com/[JhuangLab]/BMHICML.git](https://github.com/%5BJhuangLab%5D/BMHICML.git){.uri} cd BMHICML
 
 ### Install Dependencies
 
@@ -154,17 +154,15 @@ Contact
 
 For questions, issues, or collaboration requests, please contact:
 
--   Project Maintainer: [Your Name]
+-   Project Maintainer: [JhuangLab]
 
--   Email: [[your.email\@institution.com](mailto:your.email@institution.com){.email}]
-
--   GitHub Issues: [https://github.com/[your-username]/BMHICML/issues](https://github.com/%5Byour-username%5D/BMHICML/issues){.uri}
+-   GitHub Issues: [https://github.com/JhuangLab/BMHICML/issues](https://github.com/%5BJhuangLab%5D/BMHICML/issues){.uri}
 
 Citation
 
 If you use this project in your research, please cite it as:
 
-@misc{BMHICML2024, author = {[Your Name], [Co-Authors]}, title = {BMHICML: Bone Marrow Histopathology Image Classification via Machine Learning}, year = {2024}, publisher = {GitHub}, journal = {GitHub Repository}, howpublished = {\url{https://github.com/[your-username]/BMHICML}}, }
+@misc{BMHICML2024, author = {[JhuangLab], [Co-Authors]}, title = {BMHICML: Bone Marrow Histopathology Image Classification via Machine Learning}, year = {2024}, publisher = {GitHub}, journal = {GitHub Repository}, howpublished = {\url{https://github.com/[JhuangLab]/BMHICML}}, }
 
 ### Acknowledgements
 
