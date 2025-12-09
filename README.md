@@ -1,6 +1,9 @@
 # BMHICML: Bone Marrow Histopathology Image Classification via Machine Learning
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/BMHICML) ![GitHub stars](https://img.shields.io/github/stars/your-username/BMHICML?style=social) ![GitHub license](https://img.shields.io/github/license/your-username/BMHICML) ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![PyTorch Version](https://img.shields.io/badge/pytorch-1.12%2B-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![R-4.3.0](https://img.shields.io/badge/R-%E2%89%A54.3.0-%23276DC3.svg?style=flat&logo=r&logoColor=white)](https://cran.r-project.org/bin/windows/base/old/4.3.0/) 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) 
+[![PyTorch Version](https://img.shields.io/badge/pytorch-1.12%2B-orange)](https://pytorch.org/)
 
 ## Project Overview
 
