@@ -7,7 +7,7 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-%E2%89%A57.32-brightgreen.svg)](https://snakemake.readthedocs.io)
 [![PyTorch Version](https://img.shields.io/badge/pytorch-1.12%2B-orange)](https://pytorch.org/)
 
-**Repository**: <https://github.com/jinyancool/BMHICML>
+**Repository**: <https://github.com/JhuangLab/BMHICML>
 
 **Principal Investigator**: Jhuanglab
 
